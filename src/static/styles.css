@@ -74,7 +74,8 @@ section h3 {
   margin-bottom: 8px;
 }
 
-/* Estilo para a lista de participantes */
+
+
 .activity-card ul {
   margin: 10px 0;
   padding-left: 20px;
@@ -83,8 +84,10 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 5px;
+  <<<<<<< accelerate-with-copilot
   color: #333;
   font-size: 14px;
+
 }
 
 .form-group {
